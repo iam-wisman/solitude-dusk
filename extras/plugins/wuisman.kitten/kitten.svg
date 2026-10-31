@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4 4 24 25">
+  <!-- square kitten head with pointed ears; eyes and nose are cut out -->
+  <path fill="#ffffff" fill-rule="evenodd" d="
+    M4 4 L12 11 H20 L28 4 V27 Q28 29 26 29 H6 Q4 29 4 27 Z
+    M9 16 H13 V20 H9 Z
+    M19 16 H23 V20 H19 Z
+    M14.5 22.5 H17.5 L16 24.5 Z"/>
+</svg>

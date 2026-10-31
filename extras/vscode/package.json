@@ -1,0 +1,38 @@
+{
+  "name": "solitude-dusk",
+  "displayName": "Solitude Dusk",
+  "description": "Warm charcoal and a single setting-sun gold. The VS Code half of the Solitude Dusk Omarchy theme.",
+  "version": "1.0.0",
+  "publisher": "iam-wisman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iam-wisman/solitude-dusk"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "omarchy",
+    "solitude",
+    "dusk"
+  ],
+  "galleryBanner": {
+    "color": "#171717",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solitude Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solitude-dusk-color-theme.json"
+      }
+    ]
+  }
+}
